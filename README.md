@@ -25,7 +25,7 @@ We use this categorical data encoding technique when the features are nominal(do
 • Log Transformation
 • Reciprocal Transformation
 • Square Root Transformation
-• Square Transformation
+• Square Transformation     
   # 2. POWER TRANSFORMATION
 • Boxcox method
 • Yeojohnson method
@@ -79,11 +79,7 @@ We use this categorical data encoding technique when the features are nominal(do
 
 <img width="1313" height="1181" alt="Screenshot 2025-09-15 084617" src="https://github.com/user-attachments/assets/7426bd94-9bc2-4fbd-8427-e9a32dce834d" />
 <br>
-//<br>
-Name : Aravindan SD<br>
-Register no: 25005593<br>
-//
-
+Register no: 25005593
 # RESULT:
        Thus we have successfully performed Feature Encoding and Transformation process and saved the data to a file.
        
